@@ -1,2 +1,2 @@
 # simple-interest-calculator
-Coursera Project 2
+A simple interest calculator using Bash
